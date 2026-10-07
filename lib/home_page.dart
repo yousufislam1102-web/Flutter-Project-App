@@ -67,7 +67,7 @@ class HomePage extends StatelessWidget{
         backgroundColor: Colors.blue,
         foregroundColor: Colors.white,
         shape: CircleBorder(),
-        tooltip: 'Add Something',
+        tooltip: 'Add',
         child: Icon(Icons.add),
         ),
         );
