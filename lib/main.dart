@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_application_1/Assignment3.dart';
 import 'package:flutter_application_1/home_page.dart';
 
 
@@ -16,7 +17,8 @@ class MyApp extends StatelessWidget{
    return MaterialApp(
      theme: ThemeData.light(),
      debugShowCheckedModeBanner: false,
-     home: HomePage(),
+     //home: HomePage(),
+     home: Assignment3(),
    );
  }
  }
