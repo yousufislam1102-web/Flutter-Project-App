@@ -89,7 +89,7 @@ class Assignment3 extends StatelessWidget {
                   SizedBox(width: 10),
                   Text(
                     'Search for products',
-                    style: TextStyle(fontSize: 16, color: Colors.blue),
+                    style: TextStyle(fontSize: 18, color: Colors.blue),
                   ),
                 ],
               ),
@@ -99,7 +99,7 @@ class Assignment3 extends StatelessWidget {
 
             const Text(
               'Category',
-              style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+              style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold,color: Colors.blue),
             ),
 
             const SizedBox(height: 12),
